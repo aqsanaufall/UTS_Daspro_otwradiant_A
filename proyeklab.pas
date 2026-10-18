@@ -1,4 +1,4 @@
-program pelacakkeuangan;
+program Kantong_Aman;
 uses crt;
 
 var pilihan, kategori, hari: integer;
