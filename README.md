@@ -4,9 +4,9 @@ PROGRAM KANTONG AMAN
 Program kantong aman adalah program yang dibuat untuk membantu mahasiswa mengatur keuangan bulanannya. Pengguna dapat mengatur uang bulanan, mencatat pengeluaran ke dalam 5 kategori (makan, transport, kuota, hiburan, dan lainnya), lalu melihat sisa uang beserta rata-rata pengeluaran harian. Dari rata-rata itu, program memprediksi total pengeluaran selama satu bulan dan menentukan status keuangan: aman, hati-hati, atau kritis. Selain itu, tersedia rekap pengeluaran per kategori, dan semua input divalidasi agar data yang tercatat tetap benar.
 
 Anggota Kelompok:
-Maxwell Jesman Simanjutak 261401065, Kom A, Lab 1
-M. Aqsa Naufal Lubis 261401002, Kom A, Lab 1
-Rayhan Arbiansyah Tanjung 261401145, Kom A, Lab 2
+1. Maxwell Jesman Simanjutak 261401065, Kom A, Lab 1
+2. M. Aqsa Naufal Lubis 261401002, Kom A, Lab 1
+3. Rayhan Arbiansyah Tanjung 261401145, Kom A, Lab 2
 
 
 Fitur dan Penjelasan Singkat
